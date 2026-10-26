@@ -63,6 +63,6 @@ class AppViewModel(app: Application) : AndroidViewModel(app) {
         const val MAX_COMPARE = 4
 
         /** Link to the hosted privacy policy. Leave empty until the page is published. */
-        const val PRIVACY_URL = ""
+        const val PRIVACY_URL = "https://saurabhchandravanshi.github.io/PopulationTrackerApp/"
     }
 }

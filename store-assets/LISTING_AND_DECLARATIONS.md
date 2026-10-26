@@ -11,6 +11,8 @@ No health, outbreak or WhatsApp/Meta wording anywhere. Review every line before 
 Official annual population figures for countries, with rankings and comparison.
 
 **Full description:**
+Independent reference app. Country Population is not a government app and does not represent the World Bank, the United Nations or any government or government agency.
+
 Country Population is a simple reference tool for looking up, ranking and comparing the total population of countries and territories.
 
 • Search and sort 200+ countries by name, population, land area or density
@@ -20,11 +22,21 @@ Country Population is a simple reference tool for looking up, ranking and compar
 • Save favourites on your device
 • Works offline with built-in data; optionally refresh the latest figures
 
-Data and dates: figures are annual estimates from World Bank Open Data (Population, total, SP.POP.TOTL; Land area, AG.LND.TOTL.K2). The app states the latest year covered on every screen. These are not live counts. Data is licensed CC BY 4.0. This app is not affiliated with or endorsed by the World Bank.
+SOURCES OF THE DATA
+All figures come from World Bank Open Data:
+• Population, total (SP.POP.TOTL): https://data.worldbank.org/indicator/SP.POP.TOTL
+• Land area, sq. km (AG.LND.TOTL.K2): https://data.worldbank.org/indicator/AG.LND.TOTL.K2
+• World Bank Open Data: https://data.worldbank.org
+• Licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+The World Bank compiles these figures from officially recognised sources such as national statistical offices and United Nations population estimates. Figures are annual estimates, not live counts, and the source revises them from time to time. The app shows the latest year covered on every screen.
+
+DISCLAIMER
+This app is not affiliated with, endorsed by or sponsored by the World Bank, the United Nations or any government. It does not provide any government service.
 
 No account, no ads, no tracking.
 
-**Release notes (first release):** First release of Country Population.
+**Release notes (500 max):** Country Population: clearer data sources and a disclaimer. The store description now links to the official World Bank data pages and states that the app does not represent any government or organisation.
 
 **Screenshots (take on a phone):** Countries list, a country page with chart, Rankings, Compare, About and sources.
 **Icon (512x512):** store-assets/play-store-icon-512.png (see notes below).
